@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Голосовой помощник</string>
+    <string name="ask_question">Спрашивай..</string>
+    <string name="send_message">Отрпавить</string>
+    <string name="response">Думаю над ответом</string>
+    <string name="no_answer">Я не знаю что сказать</string>
+</resources>

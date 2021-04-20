@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voice assistant</string>
+    <string name="ask_question">Ask question</string>
+    <string name="send_message">Send</string>
+    <string name="response">processing answer…</string>
+    <string name="no_answer">Dont even know what to say</string>
+</resources>
